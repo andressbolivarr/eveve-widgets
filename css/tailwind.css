@@ -1,0 +1,22 @@
+html, body {
+    height: 100%
+  }
+  
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .block{
+    margin: 1rem;
+  }
+  form {
+    padding: 2rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 450px;
+  }
+  
+  button {
+    width: 40%
+  }
